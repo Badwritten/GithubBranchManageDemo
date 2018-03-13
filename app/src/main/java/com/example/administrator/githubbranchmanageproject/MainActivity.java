@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         while (true){
             System.out.println("HelloWord");
         }
+        Log.d("whs", "1");
     }
 }
