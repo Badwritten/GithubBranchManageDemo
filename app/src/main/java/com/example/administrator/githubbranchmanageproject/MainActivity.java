@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d("whs", "1");
         //Alexander第一次提交
+
         while (true){
             System.out.println("HelloWord");
         }
